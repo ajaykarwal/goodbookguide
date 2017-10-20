@@ -1,11 +1,11 @@
 # Good Book Guide
 
-A guide to some ofo the good books I like.
+A guide to some of the good books I like.
 
 ---
 
 ## Design / UX
-- Don't Make Me Think: A Common Sense Approach to Web Usability (Voices That Matter) - Steve Krug
+- [Don't Make Me Think: A Common Sense Approach to Web Usability (Voices That Matter)](http://amzn.to/2k5nGFS) - Steve Krug
 
 
 ## Programming
@@ -15,7 +15,7 @@ A guide to some ofo the good books I like.
 ## Business
 - Making Ideas Happen: Overcoming the Obstacles Between Vision and Reality - Scott Belsky
 - The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers - Ben Horowitz
-- Creating Magic: 10 Common Sense Leadership Strategies from a Life at Disney - Lee Cockerell
+- [Creating Magic: 10 Common Sense Leadership Strategies from a Life at Disney](http://amzn.to/2aBDk3B) - Lee Cockerell
 - Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not! - Robert Kiyosaki
 - How to Win Friends and Influence People - Dale Carnegie
 - Crush It!: Why Now Is the Time to Cash In on Your Passion - Gary Vaynerchuk
@@ -28,6 +28,6 @@ A guide to some ofo the good books I like.
 
 
 ## Fiction
-- Cloud Atlas - David Mitchell
+- [Cloud Atlas](http://amzn.to/1UfH4pJ) - David Mitchell
 - Three Men in a Boat
 - The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared

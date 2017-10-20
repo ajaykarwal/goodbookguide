@@ -23,7 +23,7 @@ A guide to some of the good books I like.
 
 
 ## Non-Fiction
-- Steve Jobs - Walter Isaacson
+- [Steve Jobs](http://amzn.to/2bis1la) - Walter Isaacson
 - A Short History of Nearly Everything - Bill Bryson
 
 

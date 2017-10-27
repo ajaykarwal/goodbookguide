@@ -1,0 +1,35 @@
+###### Site settings
+title            : Good Book Guide
+metatitle        : Web Development and Tech Podcast
+description      : Site Description
+tagline          : tagline
+email            : ajaykarwal@gmail.com
+base_url         : http://ajaykarwal.com
+encoding         : utf-8
+
+# google_analytics : UA-93339523-1
+
+author:
+  name           : Ajay Karwal
+  email          : ajaykarwal@gmail.com
+
+# Social accounts
+twitter:
+  ajay           : ajaykarwal
+
+
+# Add _pages directory to jekyll build
+include: ["_pages"]
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+
+# Build settings
+permalink: /:title/
+sass:
+  style: compressed
+
+future: false

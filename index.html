@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+{% assign design = site.data.books | where:'genre', 'design-ux' %}
+{% assign programming = site.data.books | where:'genre', 'programming' %}
+{% assign business = site.data.books | where:'genre', 'business' %}
+{% assign non-fiction = site.data.books | where:'genre', 'non-fiction' %}
+{% assign fiction = site.data.books | where:'genre', 'fiction' %}
+
+<h2>Design / UX</h2>
+<ul class="book-list">
+    {% for book in design %} {% include book-list-item.html %} {% endfor %}
+</ul>
+
+<h2>Programming</h2>
+<ul class="book-list">
+    {% for book in programming %} {% include book-list-item.html %} {% endfor %}
+</ul>
+
+<h2>Business</h2>
+<ul class="book-list">
+    {% for book in business %} {% include book-list-item.html %} {% endfor %}
+</ul>
+
+<h2>Non-Fiction</h2>
+<ul class="book-list">
+    {% for book in non-fiction %} {% include book-list-item.html %} {% endfor %}
+</ul>
+
+<h2>Fiction</h2>
+<ul class="book-list">
+    {% for book in fiction %} {% include book-list-item.html %} {% endfor %}
+</ul>
+

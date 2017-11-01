@@ -3,15 +3,20 @@
     padding: 0;
     margin: 0;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-gap: 2em;
-
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1em;
+    @media screen and (min-width: 480px) {
+        grid-gap: 2em;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
     &__book {
         position: relative;
         padding: 0;
         margin: 0;
         &:hover .book-list__book--details {
-            opacity: 1;
+            @media screen and (min-width: 480px) {
+                opacity: 1
+            }
         }
         a {
             display: block;

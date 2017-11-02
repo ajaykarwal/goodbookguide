@@ -2,9 +2,9 @@
   layout: book
   title: The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared
   author: Jonas Jonasson
-  buylink: http://amzn.to/2aP39ks
+  buylink: http://amzn.to/2yFvQLX
   permalink: /the-hundred-year-old-man/
-  genre: Fiction
+  genre: fiction
   date: 2013-12-03
 ---
 

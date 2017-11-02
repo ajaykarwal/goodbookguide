@@ -2,9 +2,9 @@
   layout: book
   title: Three Men in a Boat
   author: Jerome K. Jerome
-  buylink: http://amzn.to/2bzFgPc
+  buylink: http://amzn.to/2ldT7ii
   permalink: /three-men-in-a-boat/
-  genre: Fiction
+  genre: fiction
   date: 2014-03-24
 ---
 

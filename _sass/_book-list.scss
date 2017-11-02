@@ -13,11 +13,17 @@
         position: relative;
         padding: 0;
         margin: 0;
-        &:hover .book-list__book--details {
-            @media screen and (min-width: 480px) {
-                opacity: 1
+        transition: all 200ms ease;
+        // transform: perspective(1000px) rotateY(0deg);
+        &:hover {
+            // transform: perspective(1000px) rotateY(-20deg);
+            .book-list__book--details {
+                @media screen and (min-width: 480px) {
+                    opacity: 1
+                }
             }
         }
+    
         a {
             display: block;
         }

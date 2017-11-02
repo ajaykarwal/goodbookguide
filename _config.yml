@@ -21,6 +21,13 @@ twitter:
 # Add _pages directory to jekyll build
 include: ["_pages"]
 
+#Collections
+collections:
+  books:
+    output: true
+    # permalink: /:path/
+
+
 exclude:
   - Gemfile
   - Gemfile.lock

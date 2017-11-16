@@ -25,7 +25,7 @@ include: ["_pages"]
 collections:
   books:
     output: true
-    # permalink: /:path/
+    permalink: /:path/
 
 
 exclude:

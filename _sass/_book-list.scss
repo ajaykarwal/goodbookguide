@@ -4,9 +4,9 @@
     margin: 0;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-gap: 1em;
+    grid-gap: 1rem;
     @media screen and (min-width: 480px) {
-        grid-gap: 2em;
+        grid-gap: 2rem;
         grid-template-columns: 1fr 1fr 1fr 1fr;
     }
     &__book {
@@ -44,14 +44,14 @@
         z-index: 1;
         height: 100%;
         width: 100%;
-        background-color: rgba(black, 0.9);
-        color: white;
+        background-color: rgba($black, 0.9);
+        color: $white;
         padding: 20px;
         text-align: center;
         transition: all 200ms ease-in-out;
         border-radius: 5px;
     }
     &__book--author {
-        font-size: 0.875em;
+        font-size: 0.875rem;
     }
 }

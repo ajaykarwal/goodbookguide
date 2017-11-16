@@ -1,5 +1,5 @@
 <div class="book-list__book">
-    <a href="{{book.permalink | relative_url}}">
+    <a href="{{book.permalink|relative_url}}">
         <img class="book-list__book--cover" src="{{book.slug|prepend:'/img/covers/'|append:'.jpg'|relative_url}}" alt="{{book.title}}">
         <div class="book-list__book--details">
             <p class="book-list__book--title">{{book.title}}</p>

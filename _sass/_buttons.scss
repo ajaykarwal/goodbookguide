@@ -1,0 +1,74 @@
+%button-template {
+	display: inline-block;
+	vertical-align: middle;
+	border: 1px solid $grey-space;
+	border-radius: 0;
+	background-color: $grey-space;
+	color: inherit;
+	min-height: 42px;
+	padding: 0 15px;
+	font-family: inherit;
+	line-height: normal;
+	text-decoration: none;
+	color: $white;
+	cursor: pointer;
+    -webkit-appearance: none;
+    
+    &:hover, &:active, &:focus {
+        background-color: darken($grey-space, 10%);
+        border-color: darken($grey-space, 10%);
+        color: $white;
+        text-decoration: none;
+    }
+}
+
+.button {
+	@extend %button-template;
+
+	&__inverted {
+		border-color: $white;
+		color: $white;
+		background-color: transparent;
+
+        &:active, &:focus, &:hover {
+            color: $white;
+            border-color: $white;
+            text-decoration: none;
+        }
+        &:hover, &:active, &:focus {
+            background-color: $grey-space;
+        }
+	}
+	&__small {
+		height: 30px;
+		min-height: 30px;
+		padding: 0 10px;
+	}
+	&__large {
+		
+		height: 50px;
+		padding: 0 26px;
+	}
+	&__primary {
+		border-color: $blue-aqua;
+		background-color: $blue-aqua;
+        color: $white;
+        
+        &:active, &:focus, &:hover {
+            border-color: darken($blue-aqua, 10%);
+            background-color: darken($blue-aqua, 10%);
+            color: $white;
+        }
+	}
+}
+
+
+a.button {
+	padding-top: 10px;
+	&__small {
+		padding-top: 7px;
+	}
+	&__large {
+		padding-top: 12px;
+	}
+}

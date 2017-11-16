@@ -9,16 +9,21 @@ html {
 }
 
 body {
-    background-color: #f5f5f5;
-    color: #263238;
+    background-color: $grey-light;
+    color: $grey-space;
     margin: 0 auto;
     padding: 0;
     font: normal normal normal 100%/1.5 sans-serif;
 
 }
 a {
-    color: #00bcd4;
+    color: $blue-aqua;
 }
 p {
     margin-top: 0;
+}
+
+img {
+    max-width:100%;
+    height:auto;
 }

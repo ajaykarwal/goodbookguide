@@ -3,7 +3,7 @@
   title: "Making Ideas Happen: Overcoming the Obstacles Between Vision and Reality"
   author: Scott Belsky
   buylink: http://amzn.to/2yPQ5pE
-  permalink: /making-ideas-happen/
+  permalink: /book/making-ideas-happen/
   genre: business
   date: 2012-07-01
 ---

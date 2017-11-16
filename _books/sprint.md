@@ -4,7 +4,7 @@
   author: Jake Knapp, John Zeratsky, Braden Kowitz
   buylink: http://amzn.to/2ldmGRa
   genre: design-ux
-  permalink: /sprint/
+  permalink: /book/sprint/
   date: 2012-07-01
 ---
 

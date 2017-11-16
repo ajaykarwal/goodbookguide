@@ -3,7 +3,7 @@
   title: Cloud Atlas
   author: David Mitchell
   buylink: http://amzn.to/2lgr3LB
-  permalink: /cloud-atlas/
+  permalink: /book/cloud-atlas/
   genre: fiction
   date: 2013-01-11
 ---

@@ -3,7 +3,7 @@
   title: "Creating Magic: 10 Common Sense Leadership Strategies from a Life at Disney"
   author: Lee Cockerell
   buylink: http://amzn.to/2yGmsrm
-  permalink: /creating-magic/
+  permalink: /book/creating-magic/
   genre: business
   date: 2013-04-24
 ---

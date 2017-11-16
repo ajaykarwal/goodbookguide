@@ -3,7 +3,7 @@
   title: Steve Jobs
   author: Walter Isaacson
   buylink: http://amzn.to/2ldRWPU
-  permalink: /steve-jobs/
+  permalink: /book/steve-jobs/
   genre: non-fiction
   date: 2012-11-01
 ---
